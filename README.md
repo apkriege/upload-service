@@ -1,4 +1,4 @@
-# uploader
+# GCP and S3 File Upload Microservice
 File uploader service for GCS and S3
 
 ## Setup
